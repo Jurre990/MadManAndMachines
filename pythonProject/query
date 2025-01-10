@@ -1,0 +1,12 @@
+#standardSQL
+SELECT
+  CS.advertiser_name,
+  CS.ad_url,
+  CS.impressions
+FROM
+  `bigquery-public-data.google_political_ads.creative_stats` AS CS
+WHERE
+  cast(CS.date_range_start as datetime) >= cast('2024-05-19 00:00:00' as datetime) and  cast(CS.date_range_start as datetime) <= cast('2024-11-19 00:00:00' as datetime) and CS.regions = 'US' and CS.ad_type = 'IMAGE'
+GROUP BY
+  1,2,3
+ORDER BY 1 desc
