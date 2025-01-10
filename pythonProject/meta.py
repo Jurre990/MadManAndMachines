@@ -3,8 +3,10 @@ import requests
 url = 'https://graph.facebook.com/v21.0/ads_archive'
 
 params = {
-    "ad_reached_countries": "all",
-    "access_token": "EAAZAWL2N19L0BOxi40HzBNwKZC2ii5eT7hcZCo952P9eLRwJ2ALaC88TWM3Hfb0cZAcYHEKwSE7oek8QFUup6nMQ9b5v9tNrPUTJgqkgZCD3FvS60rwUrdsVh8v6pQe8UsUPCZAyA9rCBE977urcsYush6Ugslv4ROXb516XCD3FDoCW2MKz86njhKhsiQrZCodPgAbcRY1Ih577NuGUmlRksSQOKGxXth0lEFkqpqoBAZDZD"
+    "ad_reached_countries" : "US",
+    "search_terms" : "trump",
+    "ad_type ": "POLITICAL_AND_ISSUE_ADS",
+    "access_token": "EAAZAWL2N19L0BOZBV8vAbxIdyVyMmfp2np0JZAREMEEHKf5hEwjIHZAMqmagJCJS2nksBCgAtZA74EEB7fUvivhOBTA9ITgpZCNubkRXNNXumSuijwho7hdLAGiGBZCtHBMXPULbApQjLgdKDJSoZAbQGalgg4ZBV0UvbitJskQO80wMz6zAZCKCq39RJWSVZC59PKzUUPqHrRhD3KsBvd55YROgAEz3PbDBCOqe5SwKnOd9oZCSvRsph65a9TfzBgMQjRJQ0OWZAuNAl41ZAc0ct3Ll8ZD"
 }
 
 response = requests.get(url, params=params)
