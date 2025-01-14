@@ -1,14 +1,23 @@
 import requests
+from classmeta import MetaAds
 
-url = 'https://graph.facebook.com/v21.0/ads_archive'
+keyword = "voter fraud"
+end_date = ""
+start_date = ""
+media_type = "IMAGE"
 
 params = {
     "ad_reached_countries" : "US",
-    "search_terms" : "trump",
+    "ad_delivery_date_max": end_date,
+    "ad_delivery_date_min": start_date,
+    #"estimated_audience_size_min": 5000,
+    "languages" : "en",
+    "search_terms" : keyword,
+    "media_type" : media_type,
     "ad_type ": "POLITICAL_AND_ISSUE_ADS",
-    "access_token": "EAAZAWL2N19L0BOZBV8vAbxIdyVyMmfp2np0JZAREMEEHKf5hEwjIHZAMqmagJCJS2nksBCgAtZA74EEB7fUvivhOBTA9ITgpZCNubkRXNNXumSuijwho7hdLAGiGBZCtHBMXPULbApQjLgdKDJSoZAbQGalgg4ZBV0UvbitJskQO80wMz6zAZCKCq39RJWSVZC59PKzUUPqHrRhD3KsBvd55YROgAEz3PbDBCOqe5SwKnOd9oZCSvRsph65a9TfzBgMQjRJQ0OWZAuNAl41ZAc0ct3Ll8ZD"
+    'unmask_removed_content' : "true",
+    "access_token": "EAAZAWL2N19L0BO0z6rgYjCcCgENol9olalM280qwzvoKAYgbPWK20oVp7OfmEUvxGNiGt3kViy00zzZBbzpkxEHWclWuIPDxZAacZBdNFmfO4hqDeW5NmRiZA6aJs8kpfBFzuOTzZCQ8sUn8zM210MVSWnbWIZA1qTLZAG65PwQhNz0Lj5GZCoDiueZBbS0g2ILG8IEwXIhyc0NGzI1OsbOVx3GMI74uQlzumZB33755xZB7qaZARfHMWZCVMYZAtFl18U2ZCi5Nf0rarrzZAogZDZD",
+
 }
-
-response = requests.get(url, params=params)
-
-print(response.text)
+a = MetaAds(params)
+print(a.get_ads())
