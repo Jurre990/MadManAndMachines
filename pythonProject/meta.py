@@ -16,7 +16,7 @@ params = {
     "media_type" : media_type,
     "ad_type ": "POLITICAL_AND_ISSUE_ADS",
     'unmask_removed_content' : "true",
-    "access_token": "EAAZAWL2N19L0BOyqR8ZBXmwl4OtrdNgqumqrSXZCJDJ6iuyAsHXzNlb4V1YrUrTsrDKOSPDe10pRdZC5tmGQ3ZB1EX2nJzZBEDGeZAGx3v73np36yxqBKlBJZALc5Up3Mtidd3Tq4W2lDWhHE4cE69moTRqMlPEb50fXFZB3nV4CNqxz3mZBZAh7euOHwIV1PsSq81WLqdaAQSP7P8juGZBGZC72vZBhAzTt5egbLjuO2t8yciHtFrf1GgOsF6XoXtuUQk2M6PE9ju4SxJlZC8g6y7nhxWt",
+    "access_token": "EAAZAWL2N19L0BO9QEhoXr63TutGakM8qwQv1K1ygfDxEFHdpBQclqxMO53KRhCluZAhnbtRRYNzGEExAY7VRNxdFL97tNpGtlTPFDFiYTBLCM5D4T6XPRPKzwm0WaclaoLuw7gH52LnEqr8Lkqy0Tbn6qv9DiD70FZALFfMMUexZAYdCay15gZCficdxTvzN7hc1yZBdHpklqCbyaRkArOW1ZBggqZAxvYnAJvmNJUBW4qZCUzQBU2xZAfGbTmc05mZAbtCaXXX6UnKuUEZBGNdjfuwZD",
 
 }
 a = MetaAds(params)
