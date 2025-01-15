@@ -1,7 +1,7 @@
 import requests
 from classmeta import MetaAds
 
-keyword = "voter fraud"
+keyword = "trump"
 end_date = ""
 start_date = ""
 media_type = "IMAGE"
@@ -16,7 +16,7 @@ params = {
     "media_type" : media_type,
     "ad_type ": "POLITICAL_AND_ISSUE_ADS",
     'unmask_removed_content' : "true",
-    "access_token": "EAAZAWL2N19L0BO0z6rgYjCcCgENol9olalM280qwzvoKAYgbPWK20oVp7OfmEUvxGNiGt3kViy00zzZBbzpkxEHWclWuIPDxZAacZBdNFmfO4hqDeW5NmRiZA6aJs8kpfBFzuOTzZCQ8sUn8zM210MVSWnbWIZA1qTLZAG65PwQhNz0Lj5GZCoDiueZBbS0g2ILG8IEwXIhyc0NGzI1OsbOVx3GMI74uQlzumZB33755xZB7qaZARfHMWZCVMYZAtFl18U2ZCi5Nf0rarrzZAogZDZD",
+    "access_token": "EAAZAWL2N19L0BOyqR8ZBXmwl4OtrdNgqumqrSXZCJDJ6iuyAsHXzNlb4V1YrUrTsrDKOSPDe10pRdZC5tmGQ3ZB1EX2nJzZBEDGeZAGx3v73np36yxqBKlBJZALc5Up3Mtidd3Tq4W2lDWhHE4cE69moTRqMlPEb50fXFZB3nV4CNqxz3mZBZAh7euOHwIV1PsSq81WLqdaAQSP7P8juGZBGZC72vZBhAzTt5egbLjuO2t8yciHtFrf1GgOsF6XoXtuUQk2M6PE9ju4SxJlZC8g6y7nhxWt",
 
 }
 a = MetaAds(params)
