@@ -1,7 +1,5 @@
 Capstone Project - Mad Men and Machines
 
-There is a .venv folder included for the libraries that are needed
-
 ==== Data ====
 
 In this folder there are multiple excel sheets where the ads, texts, links and annotations are stored.
@@ -18,3 +16,7 @@ These scripts use the LLM to annotate the ad data. For them to work an API key i
 ==== Analysis ====
 
 In this folder there are scripts to evaluate the dataset, for example bias and inter-coder reliability.
+
+==== Classifier ====
+
+This is our own classifier trained on the data from all_text_ads.
