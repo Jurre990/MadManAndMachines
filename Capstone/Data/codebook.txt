@@ -1,0 +1,679 @@
+Category: 7.1 Electoral Rights Categories
+
+Code: E-2: Procedural - Voter registration
+
+Definition: Actors interested in delegitimizing the elections or
+manipulating voter registration employ disinformation
+regarding the right to vote
+of certain groups to disturb the electoral process
+and prevent (certain) voters
+from voting.
+
+Example: “Translation by the authors: if I now order postal
+voting documents for a compatriot, check the post of-
+fice, fill in the ballot paper
+and hand it in, how do you
+recognize the fraud? They
+must be able to explain if
+it’s so safe and easy, right?”
+Targeted groups may include people with disabil-
+ities. People, who have
+been given a supervisor appointed by the court, for
+example because they are
+mentally or mentally impaired or in a coma, were
+not allowed to vote in Germany until 2019. To cast a
+vote, the person has to express a clear will, thus a per-
+son unconscious in a coma
+for the entire voting period
+will probably not be able to
+vote - even if they theoretically have the right to do
+so.
+
+Code: E-3: Procedural - Voter identification
+
+Definition: Actors interested in delegitimizing the elections
+or manipulating voter participation employ false information on required documents
+for voter registration to disturb the electoral process,
+confuse voters and and prevent (certain) voters from
+voting.
+
+Example: Claims of apparent lax enforcement of voter identification at the polling station.
+
+Code: E-4: Procedural - Election campaign
+
+Definition: Actors interested in delegitimizing the elections
+or manipulating voter participation employ false information on
+organizational restrictions on election campaign events under pandemic conditions to disturb
+the electoral process, confuse voters and prevent (certain) voters from voting.
+
+Example: Claims that rallies are illegal or that only a certain number of people are
+allowed to attend. Possible disinformation regarding the violation of the principle of equal opportunities
+and the state’s duty of neutrality in elections.
+
+Code: E-5: Procedural - Election campaign and party funding
+
+Definition: Disinformation on financing
+of candidates and political
+parties.
+
+Example: Claims that a candidate is
+financed by George Soros or
+Bill Gates, for example.
+
+Code: E-6: Procedural - Polling station
+
+Definition: Actors interested in delegitimizing the
+elections or manipulating voter participation might spread disinformation regarding opening
+hours, location of polling
+stations and polling site
+changes etc. to disturb
+the electoral process, confuse voters and to prevent
+(certain) voters from voting.
+
+Example: Claims that polling stations
+close early, changed to a
+new place to allow social
+distancing etc.
+
+Code: E-7: Procedural - Voting
+
+Definition: Actors interested in delegitimizing the elections or manipulating voter participation spread disinformation
+pertaining to procedures of
+the postal vote to disturb
+the electoral process, confuse voters and to prevent
+(certain) voters from voting.
+
+Example: False instructions on how
+to apply for mail-in ballots,
+how to fill out the ballot,
+how and when to post it etc.
+
+Code: E-8: Procedural - Vote count
+
+Definition: Actors interested in delegitimizing the elections spreadisinformation on procedures of the vote count to
+disturb the electoral process, confuse voters and
+to prevent (certain) voters
+from voting.
+
+Example: Translation by the authors
+“What is the point of elections if the greens count the
+ballot papers?”
+However, it is not permissible for only representatives
+of one party or one ideology
+to evaluate ballot papers.
+
+Code: C-1: Candidates - Right to stand for elections
+
+Definition: Actors interested in restricting
+electoral competition to ensure
+electoral victory (of the government)
+might employ false claims that
+eligibility conditions are not given in
+order to exclude certain candidates.
+
+Example: Fabricated criminal allegations.
+
+Code: C-2: Candidates - Electoral registration of candidates and parties
+
+Definition: Actors interested in restricting
+electoral competition to ensure
+electoral victory (of the government)
+might make erroneous claims that
+registration requirements are not
+fulfilled to exclude certain candidates
+and parties.
+
+Example: Disinformation on changed
+conditions for the collection of
+signatures due to the pandemic.
+
+Code: C-3: Candidates -
+Electoral campaign
+
+Definition: Actors interested in
+harming/promoting certain candidates
+or parties or increasing social and
+political divisions in society spread
+malinformation on the private lives of
+candidates, or disinformation on
+political intentions, connections and
+activities of candidates and parties, or
+false allegations of violating campaign
+rules in order to defame candidates and
+parties, manipulate public opinion or
+influence voting behavior.
+
+Example: Translation by the authors:
+“Martin Sichert: Billionaire
+George Soros is known to want
+to make the world "better" in
+his favor by imposing an Eco-
+dictatorship on the people under
+his control. every year at the
+world economic forum in
+Davos...” […] “Bearbock
+(German politician) undergoes
+5-year training program at the
+world economic forum. There,
+influential people are brought in
+to implement a worldwide
+political and social "change" in
+the sense of Soros and co.
+Translation by the authors:
+"Attila Hildmann: Bearbock
+verurteilte angriffe der hamas
+auf israel: 'Wir stehen an der
+Seite der Israelis' […] Bearbock
+stands on the side of Israel
+because Bearbock is Jewish"
+
+Code: C-4: Candidates -
+Election polls
+
+Definition: Actors interested in (de-)legitimizing
+the elections or harming/promoting
+certain candidates or parties publish
+fictitious, false or supportive election
+polls to (de-) mobilize voters and/or
+influence both voter turnout and
+voters’ decisions.
+
+Example: Circulation of non-
+representative or fabricated
+election polls, or the intentional
+misinterpretation of
+representative polls
+
+Code: I-1: Integrity - Voter
+registration
+
+Definition: Actors interested in delegitimizing the
+elections or actors unwilling to accept
+electoral results might make
+undocumented claims that for example
+“dead voters” are voting to create
+distrust in the electoral process and to
+questioning electoral results.
+
+Example: Translation by the authors: “If
+the federal election takes place
+by postal vote and many dead
+people can vote for him, as was
+the case with Biden, Scholz will
+certainly become the next
+chancellor.”
+This disinformation is inspired
+by similar claims made in the
+USA during the 2020 election,
+even though the probability of
+dead people voting is
+comparatively low in Germany
+due to the link between the
+voter registry and the local
+resident registry, which does
+not exist in the USA.
+
+Code: I-2: Integrity - Voting
+
+Definition: Actors interested in delegitimizing the
+election or influencing voting behavior
+might spread rumors of non-secrecy of
+voting, sanctions on (non-)voters,
+electoral violence, as well as last-
+minute disinformation on election day
+(e.g. drop-out of candidates), or rumors
+that voting system is not safe and can
+be manipulated to create distrust and
+an atmosphere of fear, influencing
+voting behaviour.
+After the election, electoral contenders,
+particularly defeated candidates, and
+their supporters can make
+undocumented claims on systematic
+vote buying, ballot-box stuffing etc. to
+create distrust, justifying electoral
+defeat, and questioning electoral
+results, as well as delegitimizing
+elections in general and encouraging
+electoral protests.
+
+Example: Claims that mail-in votes are
+inherently fraudulent.
+
+Code: I-3: Integrity - Counting
+and notification
+
+Definition: Election losers and their supporters
+make undocumented claims on lost
+ballot boxes, and non-counted votes, or
+the manipulation of vote counts and
+election protocols etc. to justify
+electoral defeat, question electoral
+results and delegitimizing elections,
+encouraging electoral protests.
+
+Example: Under the hashtag
+\#Wahlbetrug, it was alleged
+that election workers had
+devalued AfD votes, i.e. made
+them invalid. The former AfD
+parliamentary group leader of
+the state parliament of Saxony-
+Anhalt and now ex-AfD
+politician André Poggenburg
+published a corresponding
+tweet. To underline his claim,
+he shared the photo of another
+tweet in which a user pretends
+to be an election worker in
+Saxony-Anhalt and attaches a
+photo on which election
+workers can be seen counting
+votes.
+The photo was not taken during
+the vote count for the state
+election in Saxony-Anhalt, but
+comes from Washoe County,
+Nevada, taken during the US
+election in November 2020, as
+the dts news agency, from
+which the photo was taken,
+confirmed to \#Faktenfuchs.
+This is evident in the
+community’s logo on the white
+column. The logo is painted
+over in red in the tweet, as are
+the faces of the election
+workers.
+Translation by the authors:
+“Almost 18,000 invalid ballot
+papers!!!???? I've been a poll
+worker several times. A
+maximum of 5 invalid votes per
+district. That stinks to high
+heaven! \#Voting fraud”
+
+Code: I-4: Integrity -
+Publishing of electoral
+results
+
+Definition: Election losers and their supporters
+make undocumented claims that late
+publication or changes of results as
+reported on election night indicate
+electoral fraud to justify electoral
+defeat, delegitimize democratic
+elections and encourage electoral
+protests.
+
+Example: On election night, Trump
+appeared to have a strong
+“lead” in Pennsylvania, and he
+expressed confidence he would
+win the state. He even wrongly
+“claimed” Pennsylvania’s
+Electoral College votes in a
+tweet before the race had been
+decided. But in the days ahead,
+as more mail ballots were
+processed and counted, Joe
+Biden pulled ahead and
+ultimately won the state by
+81,000 votes, or about 1%.
+The slow counting of mail
+ballots, and the way it eroded
+Trump’s early advantage, was
+the direct and expected result of
+Pennsylvania’s election rules —
+not fraud.
+The counting process took
+longer than in other states
+because elections officials were
+prohibited from starting their
+work before Election Day.
+
+Code: I-5: Integrity - Electoral
+results
+
+Definition: Election losers and their supporters
+make undocumented claims on
+electoral fraud to justify electoral
+defeat, delegitimize democratic
+election and encourage electoral
+protests.
+
+Example: Translation by the authors:
+“letter election has risen from
+14 to 30 percent and the \#CDU
+has simultaneously risen to
+almost 37 percent.
+Coincidences do happen...
+Anyone who believes that still
+believes in Father Christmas.
+The establishment will stop at
+nothing, not even electoral
+fraud. \#electionfraud
+\#Itwsa21”
+
+Code: I-6: Integrity - Electoral
+observation
+
+Definition: Government and its
+national/international supporters;
+government-friendly media promote
+false claims by pro-government
+election observers to legitimize non-
+democratic elections.
+Partisan election observers and media;
+foreign governments make false claims
+by partisan election observers (e.g.
+exaggerating the importance of minor
+irregularities) to delegitimizing
+democratic elections.
+
+Example: Unsubstantiated claims of a
+lack of independent oversight of
+the voting process and the vote
+count.
+
+Category: 7.2 Regulation of political content
+
+Code: Ro-1 Gender-based violence
+(Rec 81 DSA, (Art 34(1)(d)
+DSA), Art. 3-9 Directive
+combating violence against
+women and domestic
+violence44)
+
+Definition: Rec 81 DSA, (Art 34(1)(d)
+DSA), Art. 3 Directive
+combating violence against
+women and domestic violence,
+Female genital mutilation, Art.
+4 Forced marriage, Art. 5 Non-
+consensual sharing of intimate
+or manipulated material, Art 6
+Cyber stalking, Art 7 Cyber
+harassment, Art 8 Cyber
+incitement to violence or hatred,
+Art 9 Inciting, aiding and
+abetting and attempt
+Rec. 83 “A fourth category of
+risks stems from similar
+concerns relating to the design,
+functioning or use, including
+through manipulation, of very
+large online platforms and of
+very large online search engines
+with an actual or foreseeable
+negative effect on the protection
+of public health, minors and
+serious negative consequences
+to a person's physical and
+mental well-being, or on
+gender-based violence. Such
+risks may also stem from
+coordinated disinformation
+campaigns related to public
+health, or from online interface
+design that may stimulate
+behavioural addictions of
+recipients of the service.”
+Art 2 (a) and (b), Directive
+(2024/1385): “(a)
+“‘violence against women’
+means all acts of gender-based
+violence directed against a
+woman or a girl because she is a
+woman or a girl or that affect
+women or girls
+disproportionately, that result in
+or are likely to result in
+physical, sexual, psychological
+or economic harm or suffering,
+including threats of such acts,
+coercion or arbitrary
+deprivation of liberty, whether
+occurring in public or in private
+life; […]
+‘domestic violence’ means all
+acts of physical, sexual,
+psychological or economic
+violence that occur within the
+family or domestic unit,
+irrespective of biological or
+legal family ties, or between
+former or current spouses or
+partners, whether or not the
+offender shares or has shared a
+residence with the victim;”
+
+Example: For example the case when the
+intentional act of distributing,
+publishing, or otherwise making
+accessible intimate images,
+videos, or audio recordings of
+an individual without their
+explicit consent is performed.
+This includes material
+originally obtained with consent
+but shared beyond its agreed
+purpose, as well as content that
+has been digitally altered or
+manipulated to degrade,
+humiliate, or harm the
+individual, e.g. like in revenge
+pron.
+
+Code: Ro-7: Labelling of Synthetic
+Media (DSA Art. 39, G-E–DSA
+Sec. 3.2.3)
+
+Definition: Platforms must label synthetic
+media (e.g., deepfakes, AI-
+generated misinformation) in
+political ads to prevent
+misinformation during
+elections.
+
+Example: AI-generated videos of
+candidates without clear
+labeling as synthetic.
+
+Code: Ro-9: Monitoring and Fact-
+checking (G-E–DSA Sec. 3.3)
+
+Definition: Platforms must label content
+identified by fact-checkers as
+disinformation, helping users
+make informed decisions.
+
+Example: Content spreading
+misinformation without a fact-
+check label.
+
+Code: Ro-10: Racism
+
+Definition:
+ideas of racial uniqueness, racist attitudes towards specific social categories,
+racist stereotypes, hate-speech, nationalism and common destiny, racial supremacy,
+superiority and separation, conceptions of racial otherness, and anti-establishment world-view.
+
+Category: 7.3 Disinformation Content
+
+Code: D-1 Fabricated
+
+Definition: Stories that completely lack any
+factual base, are 100% false. The
+intention is to deceive and cause
+harm. One of the most severe types
+of fabrication adopts the style of
+news articles so the recipients
+believe it is legitimate. Could be
+text but also in visual format.
+
+Example: Examples include the news
+articles that are completely
+invented, often used to
+delegitimize a political
+candidate during an election.
+
+Code: D-2 Imposter
+
+Definition: Genuine sources that are
+impersonated with false, made-up
+sources to support a false narrative.
+It is actually very misleading since
+source or author is considered a
+great criterion of verifying
+credibility (use of journalists name/
+logo /branding of mimic URLs).
+
+Example: Examples include Facebook
+sites set up with very similar
+looking logos and names of
+very known media, such as the
+Guardian or the BILD.
+
+Code: D-3 Conspiracy theories
+
+Definition: Stories without factual base as there
+is no established baseline for truth.
+They usually explain important
+events as secret plots by the
+government or powerful
+individuals. Conspiracies are, by
+definition, difficult to verify as true
+or false, and they are typically
+originated by people who believe
+them to be true. Evidence that
+refutes the conspiracy is regarded
+as further proof of the conspiracy.
+Some conspiracy theories may have
+damaging ripple-effects.
+
+Example: Examples for conspiracies
+include the alleged planning
+and orchestrating of the 9/11
+attacks by the US government,
+or the belief that politicians and
+other powerful people are
+reptilians and/or aliens.
+
+Code: D-4 Hoaxes
+
+Definition: Relatively complex and large-scale
+fabrications which may include
+deceptions that go beyond the scope
+of fun or scam and cause material
+loss or harm to the victim. They
+contain facts that are either false or
+inaccurate and are presented as
+legitimate facts. This category is
+also known in the research
+community either as half-truth or
+factoid stories able to convince
+readers of the validity of a
+paranoia-fueled story.
+
+Example: Famous hoaxes often include
+the distribution of a rumour that
+a celebrity or person of public
+interest has died.
+
+Code: D-6 Rumours
+
+Definition: Refers to stories whose truthfulness
+is ambiguous or never confirmed
+(gossip, innuendo, unverified
+claims). This kind of false
+information is widely propagated
+on online social networks.
+
+Example: Rumours can include a wide
+variety of information, for
+instance, that Facebook will
+start charging their users or that
+a Nigerian Astronaut is lost in
+space and needs money to
+return to earth.
+
+Code: D-7 Clickbait
+
+Definition: Sources that provide generally
+credible or dubious factual content
+but deliberately use exaggerated,
+misleading, and unverified
+headlines and thumbnails to lure
+readers to open the intended Web
+page. The goal is to increase their
+traffic for profit, popularity, or
+sensationalization. Once the reader
+is there, the content rarely satisfies
+their interest.
+
+Example: These types of articles often
+include mundane content such
+as “do not eat this if you want
+to loose weight” or “the world
+was shocked to learn about the
+truth of…”.
+
+Code: D-8 Misleading connection
+
+Definition: Misleading use of information to
+frame an issue or individual. When
+headlines, visuals, or captions do
+not support the content. Separate
+parts of source information may be
+factual but are presented using
+wrong connection
+(context/content).
+
+Example: These are often related to
+decontextualisation. A famous
+example was a photo by prince
+William talking to
+photographers, the photo and
+text made it seem as if he was
+using an offensive hand gesture,
+however, from a different angle,
+the situation was proven to be
+completely innocent.
+
+Code: D-9 Trolling
+
+Definition: The act of deliberately posting
+offensive or inflammatory content
+to an online community with the
+intent of provoking readers or
+disrupting conversation. Today, the
+term “troll” is most often used to
+refer to any person harassing or
+insulting others online.
+
+Example: Trolling can often be done by a
+group of people using
+distinctive symbolism to
+identify as trolls (such as Pepé
+the Frog).
+
+Code: D-10 Pseudoscience
+
+Definition: Information that misrepresents real
+scientific studies with dubious or
+false claims. Often contradicts
+experts. Promotes metaphysics,
+naturalistic fallacies, and others.
+The actors hijack scientific
+legitimacy for profit or fame.
+
+Example: Famous examples are the
+claims that vaccines cause
+autism or “proofs” that the earth
+is actually flat.
+
+Code: N
+
+Definition:
+None of the other codes can be applied or are relevant.
