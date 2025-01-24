@@ -6,7 +6,7 @@ from transformers import AutoTokenizer
 
 #read data
 def load():
-    df = pd.read_csv('C:\\Users\\vd00r\\OneDrive\\Documenten\\GitHub\\MadManAndMachines\\pythonProject\\text_data.csv', sep=',')
+    df = pd.read_csv('../Data/text_data.csv', sep=',')
     #turn string to list
     for i, id in enumerate(df['codes']):
         df['codes'][i] = eval(id)
