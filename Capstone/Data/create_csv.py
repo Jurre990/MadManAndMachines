@@ -1,6 +1,5 @@
 import openpyxl
 import pandas as pd
-import numpy as np
 
 path = "./all_text_ads.xlsx"
 
@@ -10,6 +9,7 @@ codes_index = ["N", "E-2", "E-3", "E-4", "E-5", "E-6", "E-7", "E-8", "C-1", "C-2
 
 dict = { "text": [], "codes": []}
 
+# open the excel sheet and put the data in a dict
 wb = openpyxl.load_workbook(path)
 sheet_obj = wb.active
 for i in range(4,1126,1):
@@ -18,7 +18,9 @@ for i in range(4,1126,1):
     dict["text"].append(text)
     dict["codes"].append(codes)
 
+# convert the dict to a pandas dataframe
 df = pd.DataFrame(dict)
 print(df)
 
+# store it as a .csv
 df.to_csv('text_data.csv')

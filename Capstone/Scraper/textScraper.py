@@ -10,7 +10,6 @@ import openpyxl
 def getAd(url):
     service = Service()
     #options = webdriver.ChromeOptions()
-   # options.add_argument("--headless=new")
     #driver = webdriver.Chrome(service=service, options=options)
     options = Options()
     options.add_argument("--headless=new")
@@ -43,6 +42,7 @@ def getAd(url):
 
 
 def getAdLinks(path):
+    # get the links to all the ads and put them in a list
     wb = openpyxl.load_workbook(path)
     sheet_obj = wb.active
     links = []
@@ -51,14 +51,18 @@ def getAdLinks(path):
     return links
 
 
-
+# list with all the links to the ad pages
 adLinks = getAdLinks("text_annotation.xlsx")
 
-for i in range(199, 200, 1):
+# loop through the links
+for i in range(0, 200, 1):
     print("------------- index "+str(i)+" -------------")
     print(adLinks[i])
+    # scrape the text from the webpage
     text = getAd(adLinks[i])
     print(text)
+
+    # store the text in the excel sheet
     wb = openpyxl.load_workbook("text_annotation.xlsx")
     sheet_obj = wb.active
     sheet_obj.cell(row=i + 4, column=2).value = text

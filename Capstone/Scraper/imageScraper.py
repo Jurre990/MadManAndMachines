@@ -10,7 +10,6 @@ import openpyxl
 def getAd(url):
     service = Service()
     # options = webdriver.ChromeOptions()
-    # #options.add_argument("--headless=new")
     # driver = webdriver.Chrome(service=service, options=options)
     options = Options()
     options.add_argument("--headless=new")
@@ -25,7 +24,6 @@ def getAd(url):
         myElem = WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.XPATH,
                                                                                     '/html/body/div[5]/div[1]/div[1]/div/div/div/div/div[2]/div[1]/div[2]/div/div/div/div/div/div[3]/div/div/div[2]')))
 
-        #print(myElem.text)
         if myElem.text == "This ad was run by an account or Page we later disabled for not following our Advertising Standards.":
             driver.quit()
             return "", ""
@@ -60,21 +58,13 @@ def getAd(url):
             if link != "":
                 break
 
-
-    #source = str(driver.page_source.encode("utf-8"))
-    #print(source)
-
-    #iframe = driver.find_element(By.XPATH,"//iframe")
-    #driver.switch_to.frame(iframe)
-
-
-
     driver.quit()
 
     return text, link
 
 
 def getAdLinks(path):
+    # get the links to all the ads and put them in a list
     wb = openpyxl.load_workbook(path)
     sheet_obj = wb.active
     links = []
@@ -83,15 +73,19 @@ def getAdLinks(path):
     return links
 
 
-
+# list with all the links to the ad pages
 adLinks = getAdLinks("image_annotation.xlsx")
 
-for i in range(139, 200, 1):
+# loop through the links
+for i in range(0, 200, 1):
     print("------------- index "+str(i)+" -------------")
     print(adLinks[i])
+    # scrape the text and image link from the webpage
     text, link = getAd(adLinks[i])
     print(link)
     print(text)
+
+    # store the result in the excel sheet
     wb = openpyxl.load_workbook("image_annotation.xlsx")
     sheet_obj = wb.active
     sheet_obj.cell(row=i + 4, column=2).value = text

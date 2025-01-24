@@ -10,7 +10,6 @@ import openpyxl
 def getAd(url):
     service = Service()
     #options = webdriver.ChromeOptions()
-   # options.add_argument("--headless=new")
     #driver = webdriver.Chrome(service=service, options=options)
     options = Options()
     options.add_argument("--headless=new")
@@ -34,7 +33,6 @@ def getAd(url):
         index2 = source.find('</div>', index1)
         text = source[index1:index2:1]
 
-    #print(text)
     driver.quit()
     if text.endswith('style="top: -1px;">') or text == '<div style="white-space: pre-wrap;"><span>Als Planner keukenlogistiek en -montage zorg jij ervoor dat alles op tijd geregeld is voor de levering en montage van prachtige keukens. Van het inplannen van opdrachten tot het effici\xc3\xabnt inzetten van onze monteurs en chauffeurs, jij hebt alles onder controle! \xf0\x9f\x99\x8c Meer weten? Lees verder op onze site!</span>':
         return ""
@@ -43,6 +41,7 @@ def getAd(url):
 
 
 def getAdLinks(path):
+    # get the links to all the ads and put them in a list
     wb = openpyxl.load_workbook(path)
     sheet_obj = wb.active
     links = []
@@ -52,15 +51,18 @@ def getAdLinks(path):
 
 
 
-# adLinks = getAdLinks("text_annotation.xlsx")
+# list with all the links to the ad pages
 adLinks = getAdLinks("all_text_ads.xlsx")
 
-
+# loop through the links
 for i in range(652, len(adLinks), 1):
     print("------------- index "+str(i)+" -------------")
     print(adLinks[i])
+    # scrape the text from the webpage
     text = getAd(adLinks[i])
     print(text)
+
+    # store the text in the excel sheet
     wb = openpyxl.load_workbook("all_text_ads.xlsx")
     sheet_obj = wb.active
     sheet_obj.cell(row=i + 398, column=2).value = text

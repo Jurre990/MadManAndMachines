@@ -10,7 +10,6 @@ import openpyxl
 def getAd(url):
     service = Service()
     # options = webdriver.ChromeOptions()
-    # #options.add_argument("--headless=new")
     # driver = webdriver.Chrome(service=service, options=options)
     options = Options()
     options.add_argument("--headless=new")
@@ -46,21 +45,13 @@ def getAd(url):
             if link != "":
                 break
 
-
-    #source = str(driver.page_source.encode("utf-8"))
-    #print(source)
-
-    #iframe = driver.find_element(By.XPATH,"//iframe")
-    #driver.switch_to.frame(iframe)
-
-
-
     driver.quit()
 
     return text, link
 
 
 def getAdLinks(path):
+    # get the links to all the ads and put them in a list
     wb = openpyxl.load_workbook(path)
     sheet_obj = wb.active
     links = []
@@ -68,16 +59,18 @@ def getAdLinks(path):
         links.append(sheet_obj.cell(row=i + 4, column=1).value)
     return links
 
-
-
+# list with all the links to the ad pages
 adLinks = getAdLinks("video_annotation.xlsx")
 
-for i in range(193, 200, 1):
+# loop through the links
+for i in range(0, 200, 1):
     print("------------- index "+str(i)+" -------------")
     print(adLinks[i])
+    # scrape the text and video link from the webpage
     text, link = getAd(adLinks[i])
     print(link)
     print(text)
+    # store the result in the excel sheet
     wb = openpyxl.load_workbook("video_annotation.xlsx")
     sheet_obj = wb.active
     sheet_obj.cell(row=i + 4, column=2).value = text
