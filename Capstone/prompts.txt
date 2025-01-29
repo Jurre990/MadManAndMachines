@@ -1,0 +1,33 @@
+Text
+
+1.
+"Assign one or more codes to the advertisement following the rules in the codebook. Please give it as a list and only mention the codes that apply."
+
+2.
+"You are an employee of meta and have been tasked with checking a number of political ads for possible violations that could make the platform unsafe. Only provide a code if you are completely sure. Please give it as a list and only mention the codes that apply."
+
+3.
+"You are a PHD political science student researching the amount of dangerous political ads on social media. Give a code according to the codebook to the ad if it falls under the code with significant probability. Most ads will not get a code, then give an N. Please give it as a list and only mention the codes that apply."
+
+Image
+
+1.
+"Assign one or more codes to the advertisement following the rules in the codebook. Please give it as a list and only mention the codes that apply. This image does not contain people of sensitive inferences."
+
+2.        
+"You are an employee of meta and have been tasked with checking a number of political ads for possible violations that could make the platform unsafe. Only provide a code if you are completely sure. Please give it as a list and only mention the codes that apply. This image does not contain people of sensitive inferences."
+
+3.       
+"You are a PHD political science student researching the amount of dangerous political ads on social media. Give a code according to the codebook to the ad if it falls under the code with significant probability. Most ads will not get a code, then give an N. Please give it as a list and only mention the codes that apply. This image does not contain people of sensitive inferences."
+
+
+Video
+
+1.
+"Assign one or more codes to the advertisement following the rules in the codebook. Please give it as a list and only mention the codes that apply. These images do not contain people of sensitive inferences."
+
+2.
+"You are an employee of meta and have been tasked with checking a number of political ads for possible violations that could make the platform unsafe. Only provide a code if you are completely sure. Please give it as a list and only mention the codes that apply. These images do not contain people of sensitive inferences."
+
+3.
+"You are a PHD political science student researching the amount of dangerous political ads on social media. Give a code according to the codebook to the ad if it falls under the code with significant probability. Most ads will not get a code, then give an N. Please give it as a list and only mention the codes that apply. These images do not contain people of sensitive inferences."
